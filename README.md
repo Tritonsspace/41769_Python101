@@ -1,2 +1,2 @@
 # 41769_Python101
-Rathchaphon Phattarchaiprapha for learning python in class
+Rathchaphon Phattarchaiprapha This is a repo for learning Python in class
