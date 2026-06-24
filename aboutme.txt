@@ -1,0 +1,15 @@
+Hi 👋, I'm Rathchaphon Phattarachaiprapha
+
+I'm a 10th grade student in Thailand working on many projects
+
+- 🔭 I'm currently working on **an MP3 player PCB**
+
+- 🌱 I'm currently learning **Rust, React, and computational physics**
+
+- 👯 I'm looking to collaborate on **open source projects**
+
+- 🤝 I'm looking for help with **learning about AI and machine learning**
+
+- 📫 How to reach me **rathchaphon@tritonsspace.com**
+
+                        
